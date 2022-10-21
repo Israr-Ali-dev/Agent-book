@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "sku": "SKU366399",
+    "title": "Large",
+    "price": 22.87,
+    "salePrice": 22.87,
+    "stock": 36,
+    "makeDefault": false,
+    "remove": true
+  },
+  {
+    "id": 2,
+    "sku": "SKU366400",
+    "title": "Regular",
+    "price": 22.87,
+    "salePrice": 22.87,
+    "stock": 72,
+    "makeDefault": true,
+    "remove": true
+  },
+  {
+    "id": 3,
+    "sku": "SKU366500",
+    "title": "Small",
+    "price": 22.87,
+    "salePrice": 22.87,
+    "stock": 5,
+    "makeDefault": true,
+    "remove": true
+  }
+]

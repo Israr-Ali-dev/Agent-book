@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: theme("fontFamily.inter");
+}
+
+@layer base {
+  h1 {
+    @apply tracking-slight font-montserrat xl:text-3xl text-2xl;
+  }
+  h2 {
+    @apply tracking-slight font-montserrat xl:text-2xl text-xl;
+  }
+  h3 {
+    @apply font-montserrat xl:text-xl text-lg;
+  }
+  h4 {
+    @apply font-montserrat text-lg;
+  }
+}

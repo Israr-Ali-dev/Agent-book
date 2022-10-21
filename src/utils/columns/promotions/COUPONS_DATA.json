@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome 10",
+    "description": "Lorem ipsum dolor sit amet",
+    "discountValue": "10%",
+    "couponCode": "Welcome 10",
+    "edit": true,
+    "remove": false
+  },
+  {
+    "id": 2,
+    "title": "Happy Hour",
+    "description": "Lorem ipsum dolor sit amet",
+    "discountValue": "$5",
+    "couponCode": "HH5",
+    "edit": true,
+    "remove": false
+  }
+]
