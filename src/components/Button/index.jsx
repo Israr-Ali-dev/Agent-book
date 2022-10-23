@@ -12,7 +12,7 @@ const classes = {
     table: "border-black border-2",
   },
   size: {
-    small: "px-2.5 lg:px-3.75 lg:py-0.5 text-xs lg:text-ss",
+    small: "px-2.5 lg:px-3.75 lg:py-0.5 text-xs lg:text-sm",
     normal: "px-5 py-1.25 px-7.5 py-1.5 text-ss lg:text-sm",
     large:
       "px-7.5 py-2 lg:px-10 lg:py-2.5 xl:px-12.5 xl:py-3 text-sm lg:text-base",
