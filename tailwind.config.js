@@ -72,7 +72,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        montserrat: "Lato,'Montserrat', sans-serif",
+        poppoins: 'Poppins',
+        montserrat: 'Lato, sans-serif',
         inter: ['Inter', 'sans-serif', ...defaultTheme.fontFamily.sans],
       },
       lineHeight: {
